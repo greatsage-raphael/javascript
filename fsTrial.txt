@@ -1,0 +1,4 @@
+We are  building a point-of-sale web app that allows us to take payments from customers with Solana pay. 
+Solana Pay is a specification for payments on Solana. It describes a way to encode a payment request in a URL, 
+which can be displayed to users - for example as a QR code.  
+This combined with solana’s speed and low fees is the major benefit for using solana pay to take payments.
